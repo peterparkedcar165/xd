@@ -2,7 +2,26 @@
 
 ## The goal of players in this mod is to grind and level up to unlock new abilities and refine them.
 
+## Classes:
+### 🏹 Archer Line
+#### 🏹 Archer:
+#### 🌸 Kyudoka:
+#### 🔫 Arbalester:
 
+### ⚔️ Warrior Line
+#### ⚔️ Warrior:
+#### 🦾 Berserker:
+#### 🛡️ Guardian:
+
+### 🔧 Tinkerer Line
+#### 🔧 Tinkerer:
+#### 🛠️ Engineer:
+#### 📱 Programmer:
+
+### 📖 Scholar Line
+#### 📖 Scholar:
+#### 💧 Elementalist:
+#### 🎼 Artist:
 
 ## Attributes
 ### Intelligence | Wrapper stat that increases Spell Power, and Mana.
