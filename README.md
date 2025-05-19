@@ -17,12 +17,15 @@
 #### Volley:
 ##### Channel for a tiny bit, then shoot out [5/6/7/8] Arrows in a 25 degree cone in front of you. Each Arrows deal [1.5/1.75/2/2.25] + (0.15 * Power Enchantment) and have a velocity multiplier of 2.5.
 #### 🌸 Kyudoka:
-#### Passive:
-##### INNATE - Kyudokan Finesse: Reduce Draw Speed by half. Increase Total Dexterity by [24/28/32/36]%. Arrows have no gravity, but disappear after [20/24/28/32] ticks.
+#### Passive [Innate, 35, 45, 55, 65]:
+##### INNATE - Kyudokan Finesse: Reduce Draw Speed by half. Increase Total Dexterity by [24/28/32/36]%. Arrows have no gravity, but disappear after [20/24/28/32] ticks. All arrow hits deal extra Sakura damage.
 ##### 1 - Shin-Kokyu: Increase Arrow Damage by [0.04/0.08/0.12/0.16] per second while charging, up to 2 seconds.
 ##### 2 - Shinpen: Each all type of Arrows Piercing value by [1/2/3/4], and increase Armor Shred by [6/12/18/24]%.
 ##### 3 - Yamiuchi: Killing a hostile with arrows grants you 100% Stealth and Evasion, and [8/12/16/20]% Movement Speed.
-##### 4 - Shinjitsu no Ichiya: Every [4/3/2/1] Arrow hit will result in a Critical Hit.
+##### 4 - Shinjitsu no Ichiya: Every [4/3/2/1] Arrow hit will result in a Critical Hit. Increase Crit Damage by [8/12/16/20]%.
+
+#### Active [30, 40, 50, 60]:
+##### Danmaku - Channel for a bit, shoot out [8/9/10/11] Arrows in a 30-degree cone in front of you. Each Arrows deal [2.5/2.75/3/3.25] + (0.15 * Power Enchantment) and have a velocity multiplier of 2.5.
 #### 🔫 Arbalester:
 
 ### ⚔️ Warrior Line
