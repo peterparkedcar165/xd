@@ -39,7 +39,8 @@
 
 ##### 1 - Barrage: Fires repeating arrows in front of you, duration of the ability is constant, arrows are [6/7/8/9/10]. 
 ##### 2 - Bear Trap [3]: Deploys a bear trap, trapping hostiles that step into it.
-##### 3 - Artillery Bolt: Fire a bolt that bursts into numerous arrows
+##### 3 - Grappling Hook: Fire a grappling hook that pulls you to the terrain/entity hit. If it's a hostile, deals damage.
+##### 4 - 
 ### ⚔️ Warrior Line
 #### ⚔️ Warrior:
 #### 🦾 Berserker:
