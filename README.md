@@ -55,3 +55,6 @@
 ### Specific Elemental Damage | ...
 ### Player EXP
 ### Player Level
+
+###### On every new ability, must check:
+###### Bars | Ability Display | Level Unlock | Specific Key | Abilities Tick
