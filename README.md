@@ -22,7 +22,7 @@
 ##### 1 - Shin-Kokyu: Increase Arrow Damage by [0.04/0.08/0.12/0.16] per second while charging, up to 2 seconds.
 ##### 2 - Shinpen: Each all type of Arrows Piercing value by [1/2/3/4], and increase Armor Shred by [6/12/18/24]%.
 ##### 3 - Yamiuchi: Killing a hostile with arrows grants you 100% Stealth and Evasion, and [8/12/16/20]% Movement Speed.
-##### 4 - Kageya: Everytime you fire an arrow, spawn [1/2/3/4] extra arrows that mimic the velocity of the original arrow. Each arrow deal 25% damage.
+##### 4 - Shinjitsu no Ichiya: Every [4/3/2/1] Arrow hit will result in a Critical Hit.
 #### 🔫 Arbalester:
 
 ### ⚔️ Warrior Line
