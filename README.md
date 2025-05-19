@@ -26,8 +26,16 @@
 
 #### Active [30, 40, 50, 60]:
 ##### Danmaku - Channel for a bit, shoot out [8/9/10/11] Arrows in a 30-degree cone in front of you. Each Arrows deal [2.5/2.75/3/3.25] + (0.15 * Power Enchantment) and have a velocity multiplier of 2.5.
-#### 🔫 Arbalester:
+##### ** - Deploy a blossom trap that burst when a hostile steps on it. Hostiles have reduced Accuracy.
+##### ** - Charge up, and fire a long-range magical projectile. Damage scales on distance traveled??
+##### ** - Hurricane-like, increase Movement Speed, for every arrow hit. Send another arrow with the same power and damage.
 
+#### 🔫 Arbalester:
+#### Passive:
+##### INNATE: Increase Dexterity by the same as kyudoka. Can switch between 3 elements: fire, ice, poison. All arrows fired by the player will deal extra damage and give extra effects.
+###### Fire: Deal extra Fire damage, which is stronger against some mobs. Then burns them, with a duration that scales with your Dexterity.
+###### Ice: Deal extra Ice damage, stronger against some mobs. Inflicts Freeze, duration and amplifier scales with your Dexterity.
+###### Poison: Deals extra Poison damage, stronger against humans. Inflicts Poison with amplifier and duration that scales with Dex.
 ### ⚔️ Warrior Line
 #### ⚔️ Warrior:
 #### 🦾 Berserker:
@@ -64,6 +72,8 @@
 ### Specific Elemental Damage | ...
 ### Player EXP
 ### Player Level
+### Evasion |
+### Accuracy | 
 
 ###### On every new ability, must check:
 ###### Bars | Ability Display | Level Unlock | Specific Key | Abilities Tick
