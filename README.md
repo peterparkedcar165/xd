@@ -12,6 +12,10 @@
 ## Classes:
 ### 🏹 Archer Line
 #### 🏹 Archer:
+#### Passive:
+##### INNATE: Increase Total Dexterity by [5/10/15/20]%. Hitting a hostile with an Arrow has a [10/20/30/40]% chance of giving you an Arrow.
+#### Volley:
+##### Channel for a tiny bit, then shoot out [5/6/7/8] Arrows in a 25 degree cone in front of you. Each Arrows deal [1.5/1.75/2/2.25] + (0.15 * Power Enchantment) and have a velocity multiplier of 2.5.
 #### 🌸 Kyudoka:
 #### 🔫 Arbalester:
 
@@ -28,7 +32,7 @@
 ### 📖 Scholar Line
 #### 📖 Scholar:
 #### 💧 Elementalist:
-#### 🎼 Artist:
+#### 💧 Enchanter:
 
 ## Attributes
 ### Intelligence | Wrapper stat that increases Spell Power, and Mana.
