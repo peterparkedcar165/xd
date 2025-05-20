@@ -59,6 +59,11 @@
 
 ### 🔧 Tinkerer Line
 #### 🔧 Tinkerer:
+#### Passive:
+##### INNATe: Increase Str and Int for the same amount.
+
+##### Shock Turret [1]: Deploy a turret that shocks nearby hostiles.
+
 #### 🛠️ Engineer:
 #### 📱 Programmer:
 
