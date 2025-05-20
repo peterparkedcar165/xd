@@ -105,6 +105,7 @@
 #### Create mini-bosses
 #### Decrease Dungeon Arise's rarity
 #### Mobs that spawn in Nether has a base level (like 40), mobs in end have base level (like 100). Ender dragon is set to 175.
+#### Make Armor scalable
 
 ### LOG:
 Added Incendium, had to remove Amplified Nether. Not compatible.
