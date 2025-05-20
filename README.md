@@ -28,7 +28,7 @@
 ##### Danmaku - Channel for a bit, shoot out [8/9/10/11] Arrows in a 30-degree cone in front of you. Each Arrows deal [2.5/2.75/3/3.25] + (0.15 * Power Enchantment) and have a velocity multiplier of 2.5.
 ##### ** - Deploy a blossom trap that burst when a hostile steps on it. Hostiles have reduced Accuracy.
 ##### ** - Charge up, and fire a long-range magical projectile. Damage scales on distance traveled??
-##### ** - Hurricane-like, increase Movement Speed, for every arrow hit. Send another arrow with the same power and damage.
+##### ** - Hurricane-like, increase Movement Speed, for every arrow hit. Send cherry blossom bolts that deal % health damage.
 
 #### 🔫 Arbalester:
 #### Passive:
@@ -40,12 +40,12 @@
 ##### 1 - Explosive Bolts: Arrows from crossbows deal spread damage and spread the debuff from the passive to nearby hostiles.
 ##### 2 - Auto-Reload: Every X seconds, your crossbow auto reloads.
 ##### 3 - Distant Execution: Arrows against targets under 5/10/15/20/25% Health instead take 100% of their Health as damage.
-##### 4 - Piercing bolts instead bounce bolts towards hostiles.
+##### 4 - Bouncing Bolts: Piercing bolts instead bounce bolts towards hostiles.
 
 ##### 1 - Barrage: Fires repeating arrows in front of you, duration of the ability is constant, arrows are [6/7/8/9/10]. 
 ##### 2 - Bear Trap [3]: Deploys a bear trap, trapping hostiles that step into it.
 ##### 3 - Grappling Hook: Fire a grappling hook that pulls you to the terrain/entity hit. If it's a hostile, deals damage.
-##### 4 - 
+##### 4 - Bolt Split: Shoot a bolt that arcs upwards, then bursts, sending down a bunch of other bolts that deal AoE damage upon landing.
 ### ⚔️ Warrior Line
 #### ⚔️ Warrior:
 #### 🦾 Berserker:
