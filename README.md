@@ -87,3 +87,12 @@
 
 ###### On every new ability, must check:
 ###### Bars | Ability Display | Level Unlock | Specific Key | Abilities Tick
+
+
+### IDEAS:
+#### Make boss entities have specific level.
+#### Create mini-bosses
+#### Decrease Dungeon Arise's rarity
+
+### LOG:
+Added Incendium, had to remove Amplified Nether. Not compatible.
