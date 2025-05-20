@@ -46,8 +46,14 @@
 ##### 2 - Bear Trap [3]: Deploys a bear trap, trapping hostiles that step into it.
 ##### 3 - Grappling Hook: Fire a grappling hook that pulls you to the terrain/entity hit. If it's a hostile, deals damage.
 ##### 4 - Elemental Wisps: Buff yourself, every 4/3/2/1/0.5 seconds, shoot an Elemental Bolt against enemies in front. The bolts are homing.
+
 ### ⚔️ Warrior Line
+
 #### ⚔️ Warrior:
+#### Passive:
+##### INNATE: Increase Strength by the same factor as Main Classes.
+
+##### 
 #### 🦾 Berserker:
 #### 🛡️ Guardian:
 
