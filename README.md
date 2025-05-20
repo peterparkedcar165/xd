@@ -45,7 +45,7 @@
 ##### 1 - Barrage: Fires repeating arrows in front of you, duration of the ability is constant, arrows are [6/7/8/9/10]. 
 ##### 2 - Bear Trap [3]: Deploys a bear trap, trapping hostiles that step into it.
 ##### 3 - Grappling Hook: Fire a grappling hook that pulls you to the terrain/entity hit. If it's a hostile, deals damage.
-##### 4 - Bolt Split: Shoot a bolt that arcs upwards, then bursts, sending down a bunch of other bolts that deal AoE damage upon landing.
+##### 4 - Elemental Wisps: Buff yourself, every 4/3/2/1/0.5 seconds, shoot an Elemental Bolt against enemies in front. The bolts are homing.
 ### ⚔️ Warrior Line
 #### ⚔️ Warrior:
 #### 🦾 Berserker:
