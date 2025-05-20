@@ -37,6 +37,11 @@
 ###### Ice: Deal extra Ice damage, stronger against some mobs. Inflicts Freeze, duration and amplifier scales with your Dexterity.
 ###### Poison: Deals extra Poison damage, stronger against humans. Inflicts Poison with amplifier and duration that scales with Dex.
 
+##### 1 - Explosive Bolts: Arrows from crossbows deal spread damage and spread the debuff from the passive to nearby hostiles.
+##### 2 - Auto-Reload: Every X seconds, your crossbow auto reloads.
+##### 3 - Distant Execution: Arrows against targets under 5/10/15/20/25% Health instead take 100% of their Health as damage.
+##### 4 - Piercing bolts instead bounce bolts towards hostiles.
+
 ##### 1 - Barrage: Fires repeating arrows in front of you, duration of the ability is constant, arrows are [6/7/8/9/10]. 
 ##### 2 - Bear Trap [3]: Deploys a bear trap, trapping hostiles that step into it.
 ##### 3 - Grappling Hook: Fire a grappling hook that pulls you to the terrain/entity hit. If it's a hostile, deals damage.
