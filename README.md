@@ -20,7 +20,7 @@
 #### Passive [Innate, 35, 45, 55, 65]:
 ##### INNATE - Kyudokan Finesse: Reduce Draw Speed by half. Increase Total Dexterity by [24/28/32/36]%. Arrows have no gravity, but disappear after [20/24/28/32] ticks. All arrow hits deal extra Sakura damage, equal to [8/16/24/32]% of the arrow's travel distance.
 ##### 1 - Shin-Kokyu: Increase Arrow Damage by [0.04/0.08/0.12/0.16] per second while charging, up to 2 seconds.
-##### 2 - Shinpen: Each all type of Arrows Piercing value by [1/2/3/4], and increase Armor Shred by [6/12/18/24]%.
+##### 2 - Shinpen: Increase Armor Shred and Critical Damage by [6/12/18/24]%.
 ##### 3 - Yamiuchi: Killing a hostile with arrows grants you 100% Stealth and Evasion, and [8/12/16/20]% Movement Speed.
 ##### 4 - Shinjitsu no Ichiya: Every [4/3/2/1] Arrow hit will result in a Critical Hit. Increase Crit Damage by [8/12/16/20]%.
 
