@@ -26,7 +26,7 @@
 
 #### Active [30, 40, 50, 60]:
 ##### Danmaku - Channel for a bit, shoot out [8/9/10/11] Arrows in a 30-degree cone in front of you. Each Arrows deal [2.5/2.75/3/3.25] + (0.15 * Power Enchantment) and have a velocity multiplier of 2.5.
-##### ** - Deploy a blossom trap that burst when a hostile steps on it. Hostiles have reduced Accuracy.
+##### ** - Shoot a blinding projectile, Blinding the hostile, and creating a field that reduces Accuracy to 0%.
 ##### ** - Charge up, and fire a long-range magical projectile. Damage scales on distance traveled??
 ##### ** - Hurricane-like, increase Movement Speed, for every arrow hit. Send cherry blossom bolts that deal % health damage.
 
