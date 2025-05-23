@@ -53,29 +53,18 @@
 #### Passive:
 ##### INNATE: Increase Strength by the same factor as Main Classes.
 
-##### 
 #### 🦾 Berserker:
 #### 🛡️ Guardian:
-
-### 🔧 Tinkerer Line
-#### 🔧 Tinkerer:
-#### Passive:
-##### INNATe: Increase Str and Int for the same amount.
-
-##### Shock Turret [1]: Deploy a turret that shocks nearby hostiles.
-
-#### 🛠️ Engineer:
-#### 📱 Programmer:
 
 ### 📖 Scholar Line
 #### 📖 Scholar:
 #### 💧 Elementalist:
-#### 💧 Enchanter:
+#### ✝️ Bishop:
 
 ## Attributes
 ### Intelligence | Wrapper stat that increases Spell Power, and Mana.
 ### Dexterity | Wrapped stat that increases Arrow Velocity and Draw Speed.
-### Strength | Wrapper stat that increases Attack Damage and Max Health
+### Strength | Wrapper stat that increases Attack Damage and Max Health. Only AD for Warriors
 ### Spell Power | Effectiveness from Spells (Only gained through Enchantments and Curios, no weapons)
 ### EXP Gain | Every player gets this, every hit against a hostile will change their EDM stat to match the same as the player, on death, the mob drops exp multiplied by this attribute.
 ### Charge Rate | Charge Rate of spells
