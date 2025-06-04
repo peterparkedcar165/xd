@@ -67,7 +67,7 @@
 ##### 1 - Magical Blades: Melee Attacks instead deal Astral damage, and deal 0.5/1/1.5/2% of target's Max Health as damage.
 ##### 2 - Cheap Shot: Melee Attacks deal 5/10/15/20% bonus damage to airborne hostiles.
 ##### 3 - Starfall: In case you would take fall damage, you will not take damage, and instead deal damage to nearby hostiles scaling on your Y velocity and Spell Power.
-##### 4 - Warrior of The Stars - Increase Evasion by 10/20/30/40%. Attack Speed by 25/50/75/100%. Killing a hostile restores 2/3/4/5 charge on every ability.
+##### 4 - Warrior of The Stars - Increase Evasion by 10/20/30/40%. Attack Speed by 25/50/75/100%. Charge Rate by 10/20/30/40%. Killing a hostile restores 2/3/4/5 charge on every ability.
 
 #### Active:
 ##### 1 - Blade Fury: Buff self, during the buff, increase Attack Speed by 15/20/25/30%. Whenever you attack a hostile, grant a buff that damages nearby hostiles with magical-blade-like animations and sounds, dealing 5/10/15/20% of your Attack Damage, plus the damage from Magical Blades. (So it essentially deals Player Attack damage, which will in turn be converted by the passive). This is considered Melee Attack Damage.
