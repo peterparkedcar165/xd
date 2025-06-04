@@ -60,7 +60,7 @@
 #### 📖 Scholar:
 #### 💧 Elementalist:
 #### ✝️ Bishop:
-#### 🔪 Spellblade:
+#### 🌪️ Windblade:
 
 ## Attributes
 ### Intelligence | Wrapper stat that increases Spell Power, and Mana.
