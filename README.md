@@ -60,7 +60,20 @@
 #### 📖 Scholar:
 #### 💧 Elementalist:
 #### ✝️ Bishop:
-#### 🌪️ Windblade:
+#### 🌃 Astral Blade:
+#### Weapon - Two-Handed light weapons. Chakram, Sickle, Sai, Knives, Dagger
+#### Passive:
+##### INNATE: Increase Int by the same factor as Main Classes. Increase Attack Speed by 20/35/50/65%. While wielding dual-light weapons, increase Attack Damage by 20/30/40/50% of Spell Power.
+##### 1 - Magical Blades: Melee Attacks instead deal Astral damage, and deal 0.5/1/1.5/2% of target's Max Health as damage.
+##### 2 - Cheap Shot: Melee Attacks deal 5/10/15/20% bonus damage to airborne hostiles.
+##### 3 - Starfall: In case you would take fall damage, you will not take damage, and instead deal damage to nearby hostiles scaling on your Y velocity and Spell Power.
+##### 4 - Warrior of The Stars - Increase Evasion by 10/20/30/40%. Attack Speed by 25/50/75/100%. Killing a hostile restores 2/3/4/5 charge on every ability.
+
+#### Active:
+##### 1 - Blade Fury: Buff self, during the buff, increase Attack Speed by 15/20/25/30%. Whenever you attack a hostile, grant a buff that damages nearby hostiles with magical-blade-like animations and sounds, dealing 5/10/15/20% of your Attack Damage, plus the damage from Magical Blades. (So it essentially deals Player Attack damage, which will in turn be converted by the passive). This is considered Melee Attack Damage.
+##### 2 - Levitate: Enables creative flight. Attacking hostiles will levitate them, preventing them from moving and trapping them in the air. Duration increases during clear night time, or in the End. (Increase the Y velocity when going up and down).
+##### 3 - Spatial Shift: Dash forward, damaging entities by 60/70/80/90% of your Spell Power that are hit while dashing. Distance is increased when Levitating.
+##### 4 - Black Hole: Summon a Black Hole that moves forward slightly. Deals small damage and draws in hostiles.
 
 ## Attributes
 ### Intelligence | Wrapper stat that increases Spell Power, and Mana.
@@ -85,6 +98,7 @@
 ### Player Level
 ### Evasion |
 ### Accuracy | 
+### Elemental Resistance |
 
 ###### On every new ability, must check:
 ###### Bars | Ability Display | Level Unlock | Specific Key | Abilities Tick
