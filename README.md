@@ -58,8 +58,15 @@
 
 ### 📖 Scholar Line
 #### 📖 Scholar:
-#### 💧 Elementalist:
+#### Weapon - Wand, Grimoire
+
+#### 🌟: Arcanist
+#### Weapon - Wand, Grimoire
+#### Passive: 
+
 #### ✝️ Bishop:
+#### Weapon - Wand, Grimoire
+
 #### 🌃 Astral Blade:
 #### Weapon - Two-Handed light weapons. Chakram, Sickle, Sai, Knives, Dagger
 #### Passive:
